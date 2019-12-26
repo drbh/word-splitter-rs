@@ -1,0 +1,1 @@
+Original code and data from https://github.com/keredson/wordninja !
